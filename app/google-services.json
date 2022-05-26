@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "319210300751",
+    "project_id": "my-cart-5a900",
+    "storage_bucket": "my-cart-5a900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319210300751:android:10dd7d43045133e01d513a",
+        "android_client_info": {
+          "package_name": "urban.fresh.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319210300751-bvrk6atq7r8rjqnl061o2n9h6g5rcr11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "urban.fresh.shop",
+            "certificate_hash": "8f328b1e429f3504942fa23b5ba16d9c28498cb5"
+          }
+        },
+        {
+          "client_id": "319210300751-pjetijc0o24jut0mn4ucubguvn2i26bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKWu-bZNPh8JxKCvOz9A115PG3D9kBMOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319210300751-pjetijc0o24jut0mn4ucubguvn2i26bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
